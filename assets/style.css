@@ -26,6 +26,7 @@ video#bgvid {
   text-align: center;
   z-index: -100;
   position: fixed;
+  background: url(../pics/videofallback.jpg);
 }
 
 .headerText {
