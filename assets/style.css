@@ -29,9 +29,13 @@ video#bgvid {
 }
 
 .headerText {
-  font-size: 5em;
+ 
   text-align: center;
   padding: .7em 0 .5em 0;
+}
+
+.headerText h1 {
+  font-size: 5em;
 }
 
 .nav {
